@@ -1,0 +1,1 @@
+1. [[1강, 세팅] 증권앱 만들기 전에 꼭 알아야하는 Dart기초](https://youtu.be/7--KbWiAw08?list=PLDtzZPtOGenbc0lZJ1QisADXqTIxD1q_L)
