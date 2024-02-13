@@ -16,3 +16,8 @@
 
 7. [[8강, extends 증권 기능 상속] 증권앱 만들기 전에 꼭 알아야하는 Dart기초](https://youtu.be/oayA1wQVSz4)
     - [File](./Code/ex7_extends.dart)
+
+8. [[9강, 기능들 여러개 할당하는 mixins] 증권앱 만들기 전에 꼭 알아야하는 Dart기초](https://youtu.be/kon6h7p9v5o)
+    - [File](./Code/ex8_mixins.dart)
+
+9. [[10강, 기능 무조건 넣겠다는 implements] 증권앱 만들기 전에 꼭 알아야하는 Dart기초](https://youtu.be/koS_AX-rN-I)
