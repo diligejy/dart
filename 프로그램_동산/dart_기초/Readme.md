@@ -21,3 +21,5 @@
     - [File](./Code/ex8_mixins.dart)
 
 9. [[10강, 기능 무조건 넣겠다는 implements] 증권앱 만들기 전에 꼭 알아야하는 Dart기초](https://youtu.be/koS_AX-rN-I)
+
+10. [[마지막 강의, async로 증권 데이터 동시처리 하기] 증권앱 만들기 전에 꼭 알아야하는 Dart기초](https://youtu.be/aF9Bk8YCmis)
